@@ -32,7 +32,7 @@ See *'farmers.bliu.pdf'* for summary of findings
 
 
 ### Output Files and Visualizations
-- Cleaned data files and interactive visualizations can be found in this [google drive folder](https://drive.google.com/drive/u/1/folders/1s1ToDA7R32E3X8d964G08MON1vP-6dK_)
+- Datasets of cleaned question by country and top 500 bi-, tri-, and quadgrams of Kenyan questions can be found in this [google drive folder](https://drive.google.com/drive/u/1/folders/1s1ToDA7R32E3X8d964G08MON1vP-6dK_)
 - Note:  visualizations are uploaded to github in 'network_graphs' folder
 - N-gram frequency graphs 
 
@@ -132,9 +132,7 @@ Bliu_analysis/
     └── ken_240quadgrams_swa2eng.txt
     └── ken_500bigrams_swa2eng.txt
     └── ken_500trigrams_swa2eng.txt
-└── in datakind google drive:  cleaned datasets 
-
-
+└── in datakind google drive:  Datasets of cleaned question by country and top 500 bi-, tri-, and quadgrams of Kenyan questions
 
 ```
 
